@@ -9,9 +9,4 @@ int main() {
 	{
 		cout << i;
 	}
-
-
-
-
-
 }
