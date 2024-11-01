@@ -3,6 +3,10 @@ using namespace std;
 class Rectangle {
 
 };
+class Point
+{
+
+};
 
 int main() {
 
